@@ -1,3 +1,3 @@
 <p align ="center">
-  <img ="800" src="https://github.com/FilipeCastro008/Resolucoes---Beecrowd-Java-Python-/blob/main/Java/Bhaskara%20-%20Beecrowd/img/Captura%20de%20tela%202022-07-      05%20070014.png">
+  <img width ="800" src="https://github.com/FilipeCastro008/Resolucoes---Beecrowd-Java-Python-/blob/main/Java/Bhaskara%20-%20Beecrowd/img/Captura%20de%20tela%202022-07-05%20070014.png">
 </p>
